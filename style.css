@@ -110,3 +110,25 @@ img{
 .descricao:hover > * {
     transform: translateY(0px);
 }
+
+.lista {
+    padding: 2rem;
+    width: 80vw;
+}
+
+.lista > h1{
+    margin-top: 100px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    font-size: 35px;
+    
+
+}
+
+.elementos-lista {
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    line-height: 2.5;
+    font-size: 20px;
+    
+}

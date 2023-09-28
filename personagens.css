@@ -1,0 +1,15 @@
+.link-personagens{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    margin-bottom: 40px;
+    color: white;
+    font-size: 22px;
+}
+
+.link-personagens:hover{
+    color: tomato;
+}
+
+#link-final{
+    padding-bottom: 5rem;
+    font-weight: bold;
+}
