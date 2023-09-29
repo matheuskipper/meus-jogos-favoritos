@@ -1,2 +1,2 @@
 # meus-jogos-favoritos
- Projeto em andamento no qual exibo meus jogos preferidos
+ Projeto no qual exibo meus jogos e personagens preferidos, utilizando HTML e CSS.
