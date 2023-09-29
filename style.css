@@ -12,7 +12,7 @@ body{
     flex-direction: column;
     align-items: center;
 
-    background-image: url(./images/background-play.jpg);
+    background-image: url(./images-games/background-play.jpg);
     background-attachment: fixed;
 }
 
@@ -131,4 +131,21 @@ img{
     line-height: 2.5;
     font-size: 20px;
     
+}
+
+.link-personagens{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    margin-bottom: 40px;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.link-personagens:hover{
+    color: tomato;
+}
+
+#link-final{
+    padding-bottom: 5rem;
+    font-weight: bold;
 }
